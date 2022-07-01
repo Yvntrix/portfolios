@@ -9,4 +9,4 @@
  - https://www.jlocodes.com/
  - https://prashantsani.com/
  - https://sureshmurali.github.io/
-
+ - https://bruno-simon.com/#cybertruck

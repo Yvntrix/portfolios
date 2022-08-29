@@ -18,3 +18,4 @@
 | https://brianlovin.com | [brianlovin](https://github.com/brianlovin) | [Link](https://github.com/brianlovin/briOS) |
 | https://www.justinchi.me  | [vai0](https://github.com/vai0) | [Link](https://github.com/vai0/portfolio) |
 | https://www.joshwcomeau.com | [joshwcomeau](https://github.com/joshwcomeau) | N/A |
+| https://brittanychiang.com/ | [bchiang7](https://github.com/bchiang7) | [Link](https://github.com/bchiang7/v4)
